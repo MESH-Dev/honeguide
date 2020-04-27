@@ -1,2 +1,2 @@
-# honeguide
+# honeyguide
 Theme for Honeyguide website
